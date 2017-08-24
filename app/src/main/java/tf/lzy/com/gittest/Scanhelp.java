@@ -8,4 +8,5 @@ package tf.lzy.com.gittest;
 
 public class Scanhelp {
   private String name;
+  private int no;
 }
